@@ -1,3 +1,5 @@
+require "spec_helper"
+
 class Student  < User 
   attr_accessor :knowledge
   
